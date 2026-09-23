@@ -1,3 +1,4 @@
+<!-- Uploading "Dark Blue and Gold Elegant Modern Hotel Presentation.png"... -->
 This project analyses 3,700+ Airbnb listings in Brisbane to uncover the key factors influencing listing prices and identify meaningful patterns across the local short-term rental market.
 
 The analysis combines data cleaning, exploratory analysis, feature engineering, visualisation, and predictive modelling to examine how property characteristics, location, host attributes, and availability relate to pricing.
